@@ -1,0 +1,85 @@
+body {
+	background-color:#82C7E8;
+	text-align:center;
+	font-family: Times New Roman;
+	font-size: 40px;
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur197.png), auto;
+}
+h1 {
+	font-size:60px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+}
+h2 {
+	font-size:35px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+	margin-left:250px;
+	margin-right:250px;
+}
+h3 {
+	font-size:35px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+	margin-left:650px;
+	margin-right:650px;
+}
+h4 {
+	font-size:35px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+	margin-left:650px;
+	margin-right:650px;
+}
+h5 {
+	font-size:35px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+	margin-left:650px;
+	margin-right:650px;
+}
+h6 {
+	font-size:35px;
+	color:#FFA85C;
+	background-color:#AFDCE8;
+	text-align:center;
+	margin-left:650px;
+	margin-right:650px;
+}
+p {
+	font-size:30px;
+	color:white;
+	margin-left:279px;
+	margin-right:279px;
+}
+a {
+	color:white;
+}
+ul {
+	text-align: center;
+	color:#black;
+	font-size:20;
+}
+.grid {
+	width:cover;
+	height:cover;
+	display:grid;
+}
+.box {
+	color:white;
+	border-radius: 10px;
+	border: 2px white solid;
+}
+ul {
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+	
+
+	
